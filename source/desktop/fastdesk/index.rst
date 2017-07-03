@@ -2,7 +2,7 @@
 FASTdesk
 ========
 
-UKFast's hosted desktop solution, based on Citrix Receiver.
+UKFast's hosted desktop solution, based on Citrix XenApp/XenDestopr.
 
 .. toctree::
    :maxdepth: 1
