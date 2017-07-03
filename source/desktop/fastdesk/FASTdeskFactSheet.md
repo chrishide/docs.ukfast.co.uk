@@ -28,9 +28,9 @@ All FASTdesk data is encrypted via a 2048 bit RSA SSL. All connections into the 
 
 Yes, you can provide your own Microsoft licenses for applications such as Microsoft Office and SQL, providing that this has been pre-arranged before your solution is launched. Microsoft Windows operating system licenses cannot be provided. 
 
-## What is a FASTdesk Application Server?
+## What is a FASTdesk Database Server?
 
-FASTdesk Application Servers are required when your Line Of Business Applications require a backend database engine running on a separate server. For example; you could have 20 x FASTdesk Standard Users, spread across a total of 4 x XenApp Servers, each with a Line Of Business Application installed that connects to a centralised database instance running on 1 x FASTdesk Application Server.
+FASTdesk Database Servers are required when your Line Of Business Applications require a backend database engine running on a separate server. For example; you could have 20 x FASTdesk Standard Users, spread across a total of 4 x XenApp Servers, each with a Line Of Business Application installed that connects to a centralised database instance running on 1 x FASTdesk Database Server.
 
 ## Is Active Directory Federation Services (ADFS) supported?
 
